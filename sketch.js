@@ -8,13 +8,13 @@ var database;
 
 function preload()
 {
-  track = loadImage("../images/track.jpg");
-  ground = loadImage("../images/ground.png");
+  track = loadImage("images/track.jpg");
+  ground = loadImage("images/ground.png");
 
-  car1_image = loadImage("../images/car1.png");
-  car2_image = loadImage("../images/car2.png");
-  car3_image = loadImage("../images/car3.png");
-  car4_image = loadImage("../images/car4.png");
+  car1_image = loadImage("images/car1.png");
+  car2_image = loadImage("images/car2.png");
+  car3_image = loadImage("images/car3.png");
+  car4_image = loadImage("images/car4.png");
 }
 
 function setup()
